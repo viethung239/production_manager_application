@@ -6,11 +6,11 @@ a. Người dùng chính ( Primary Stakeholder)
 - Nhân viên kho
 - Nhân viên kĩ thuật bản vẽ
 - Nhân viên QC
-- Quản lý sản xuất
 - Nhân viên đóng gói, xuất hàng
 - Nhân viên mua hàng
-b. Người dùng gián tiếp ( Secondary Stakeholder)
+- Nhân viên xuất nhập khẩu
 - Nhân viên kế toán
+b. Người dùng gián tiếp ( Secondary Stakeholder)
 - Nhân viên nhân sự
 - Nhân viên kinh doanh
 - Nhân viên IT 
@@ -30,6 +30,7 @@ b. Người dùng gián tiếp ( Secondary Stakeholder)
 - Có rất nhiều đơn hàng cần quản lý dẫn đến khả năng sai xót đơn hàng rất lớn, thống kê để báo cáo cho kế hoạch khá chậm.
 - Việc nhận thông tin giao hàng, nhập kho còn trên giấy tờ chưa được nhanh để phản ứng kịp thời khi có đơn hàng gấp.
 - Việc mua vật liệu, vật tư mất nhiều thời gian do phải thống kế vật liệu tồn trong kho
+- Nhận thông tin giao hàng còn chậm trễ để đặt tàu, xe.
 - Mất rất nhiều thời gian để tổng hợp doanh thu nội bộ công ty.
 - Thống kê tiền công cho công nhân viên còn mất nhiều thời gian .
 - Thông tin chưa được đồng bộ nhanh ở từng bộ phận.

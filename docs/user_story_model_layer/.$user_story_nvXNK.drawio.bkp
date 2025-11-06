@@ -1,0 +1,115 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="pGin_B301UQjps0hKTL4">
+    <mxGraphModel dx="1226" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0cDesFkORywd33HqHu4H-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-1" target="0cDesFkORywd33HqHu4H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-1" value="Nhân viên xuất nhập khẩu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-2" value="Nhận thông tin đơn hàng &amp;amp; lệnh giao hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="320" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-3" target="0cDesFkORywd33HqHu4H-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="310" />
+              <mxPoint x="130" y="310" />
+              <mxPoint x="130" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-3" target="0cDesFkORywd33HqHu4H-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="310" />
+              <mxPoint x="130" y="310" />
+              <mxPoint x="130" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-3" target="0cDesFkORywd33HqHu4H-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="310" />
+              <mxPoint x="130" y="310" />
+              <mxPoint x="130" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-3" target="0cDesFkORywd33HqHu4H-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="310" />
+              <mxPoint x="130" y="310" />
+              <mxPoint x="130" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-3" value="Đơn hàng" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-4" value="Lên kế hoạch đặt lịch vẩn chuyển &amp;amp; xác nhận lại với Kế hoạch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-5" value="&amp;nbsp;Làm thủ tục xuất nhập khẩu ( nếu có )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="530" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-6" value="Theo dõi vận chuyển &amp;amp; gửi thông tin cho Kế Toán &amp;amp; Kinh Doanh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="630" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-7" value="Lưu trữ thông tin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="740" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-8" target="0cDesFkORywd33HqHu4H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-8" target="0cDesFkORywd33HqHu4H-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="310" />
+              <mxPoint x="400" y="310" />
+              <mxPoint x="400" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-8" target="0cDesFkORywd33HqHu4H-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="310" />
+              <mxPoint x="400" y="310" />
+              <mxPoint x="400" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-8" value="Vật tư, vật liệu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-9" value="Nhận thông tin nhập kho từ bộ phận mua hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-11" value="&amp;nbsp;Làm thủ tục xuất nhập khẩu ( nếu có )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-12" value="Thông tin lại cho các bộ phận liên quan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.453;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-1" target="0cDesFkORywd33HqHu4H-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0cDesFkORywd33HqHu4H-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.017;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0cDesFkORywd33HqHu4H-3" target="0cDesFkORywd33HqHu4H-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="310" />
+              <mxPoint x="130" y="310" />
+              <mxPoint x="130" y="563" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

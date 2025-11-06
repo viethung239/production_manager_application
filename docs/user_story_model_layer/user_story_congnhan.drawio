@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="9_yfjXzseESehfnHdbNC">
+    <mxGraphModel dx="1226" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yzn4LtK6esMLpIxe2s33-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzn4LtK6esMLpIxe2s33-3" target="yzn4LtK6esMLpIxe2s33-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-3" value="Công nhân" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="331" y="60" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzn4LtK6esMLpIxe2s33-4" target="yzn4LtK6esMLpIxe2s33-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzn4LtK6esMLpIxe2s33-4" target="yzn4LtK6esMLpIxe2s33-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzn4LtK6esMLpIxe2s33-4" target="yzn4LtK6esMLpIxe2s33-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzn4LtK6esMLpIxe2s33-4" target="yzn4LtK6esMLpIxe2s33-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-4" value="Sản xuất" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="331" y="180" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-6" value="Nhận giấy tờ từ bộ phận Kế hoạch &amp;amp; QC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-8" value="Gửi Picklist vào Kho &amp;amp;&amp;nbsp;&lt;div&gt;nhận nguyên vật liệu&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-9" value="Báo cáo tiến độ &amp;amp; vấn đề phát sinh cho các bộ phận liên quan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="495" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yzn4LtK6esMLpIxe2s33-4" target="yzn4LtK6esMLpIxe2s33-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-13" value="Nhận &amp;amp; bàn giao thành phẩm cho các bộ phận khác" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="610" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yzn4LtK6esMLpIxe2s33-15" value="Chấm công&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="720" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
